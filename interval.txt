@@ -1,3 +1,4 @@
-xmin[ms] = 283.64
-xmax[ms] = 283.65
-step[ms] = 0.0005
+sigma_min[us] = 0.04
+sigma_max[us] = 0.05
+step[us] = 0.0001
+archivotim = datav2.tim
